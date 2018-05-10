@@ -34,7 +34,7 @@
           &quot;strings&quot;       // 字串處理 <br />
           &quot;time           // 用來生成時間戳記 <br />
       ) </pre></td>
-  </tr>
+  </tr> 
 </table>
 
 <div>
